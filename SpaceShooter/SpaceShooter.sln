@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30717.126
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SpaceShooter", "SpaceShooter\SpaceShooter.csproj", "{84A01EB1-D204-497E-9C58-BDAF55522D89}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "SpaceShooterGame", "SpaceShooterGame\SpaceShooterGame.vdproj", "{8E5CA92A-9B27-4F7E-A2FE-086E882B3AA8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{84A01EB1-D204-497E-9C58-BDAF55522D89}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{84A01EB1-D204-497E-9C58-BDAF55522D89}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{84A01EB1-D204-497E-9C58-BDAF55522D89}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{84A01EB1-D204-497E-9C58-BDAF55522D89}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8E5CA92A-9B27-4F7E-A2FE-086E882B3AA8}.Debug|Any CPU.ActiveCfg = Debug
+		{8E5CA92A-9B27-4F7E-A2FE-086E882B3AA8}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {734BA5B1-92A2-415F-8816-99AC1FAD8731}
+	EndGlobalSection
+EndGlobal
